@@ -5,6 +5,8 @@ You'll find it at https://t.me/SpacedLearning_bot !
 
 ## How to use it :
 
+![Screenshot](spaced_learning.png)
+
 
 
 ## Run on your own server :
