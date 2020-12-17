@@ -3,6 +3,11 @@ Spaced Learning algorithm working through a Telegram bot.
 
 You'll find it at https://t.me/SpacedLearning_bot !
 
+## What it does :
+
+You can add the title of the lessons you want to learn through a simple command.
+You'll have a reminder to learn it again 7, 16 and 35 days after !
+
 ## How to use it :
 
 ![Screenshot](spaced_learning.png)
