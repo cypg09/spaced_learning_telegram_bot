@@ -7,6 +7,8 @@ You'll find it at https://t.me/SpacedLearning_bot !
 
 
 
+## Run on your own server :
+
 If you want to run the software on your own server, juste download the files, create your own bot with https://t.me/BotFather and run :
 ```
 cd spaced_learning
