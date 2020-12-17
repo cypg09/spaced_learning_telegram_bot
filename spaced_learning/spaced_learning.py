@@ -160,7 +160,7 @@ class OwnSpacedLearnHub:
         return
 
     def today_lessons(self):
-        return self.planning.loc[(self.planning['date'] == 0) & (self.planning['check'] == 0)]
+        return self.planning.loc[(self.planning['date'] <= 0) & (self.planning['check'] == 0)]
 
     def today_message(self):
         self.tlessons = self.today_lessons().sort_values(by=['J'])
